@@ -10,7 +10,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lukebemis&bg_color=c1116&color=c21919&line=7f1515&point=f20707&area=true&hide_border=true)
 
- 
+
 ### Main skills:
 ![Figma](https://img.shields.io/badge/Figma-c454ac?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-7ff9fe?style=for-the-badge&logo=react&logoColor=black)&nbsp;
