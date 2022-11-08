@@ -10,13 +10,6 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lukebemis&bg_color=c1116&color=c21919&line=7f1515&point=f20707&area=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lukebemis&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
  
 ### Main skills:
 ![Figma](https://img.shields.io/badge/Figma-c454ac?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
