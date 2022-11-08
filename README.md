@@ -1,17 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb3434&height=100&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eb3434f&size=35&center=true&vCenter=true&width=1000&lines=This+is+Lucas's+GitHub;Developer+From+Floripa;Studying+React+And+UX+;Passion+for+Design;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F73F2E&background=FF000000&center=true&width=1000&lines=This+is+Lucas+Ritter's+GitHub;UX+Designer+by+UX+Unicornio;FrontEnd+Dev+by+Rocketseat;Design+and+Development)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lukebemis&show_icons=true&count_private=true&hide_border=true&title_color=eb3434&&icon_color=eb3434&&text_color=d6541c&&bg_color=0d1117" alt="Lucas Ritter's GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukebemis&layout=compact&hide_border=true&title_color=eb3434&text_color=d6541c&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MatheusAlvarez&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=lukebemis&bg_color=c1116&color=c21919&line=7f1515&point=f20707&area=true&hide_border=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lukebemis&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
