@@ -1,7 +1,8 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06ef35&height=100&section=header"/> -->
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=06ef35&background=FF000000&center=true&width=1000&lines=This+is+Lucas+Ritter's+GitHub;UX+Designer+by+UX+Unicornio;FrontEnd+Dev+by+Rocketseat;Design+and+Development)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=06ef35&background=FF000000&center=true&width=1000&lines=This+is+Lucas+Ritter's+GitHub;UX+Designer+by+UX+Unicornio;FrontEnd+Dev+by+Rocketseat;Design+and+Development)](https://git.io/typing-svg) -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1500&color=06ef35&background=FF000000&center=true&width=1000&lines=Oi+eu+sou+o+Lucas;Esse+é+o+meu+GitHub;+Atualmente+no+bootcamp+From+Zero+To+Hero+da+BeAcademy;Sempre+aprendendo+)](https://git.io/typing-svg) 
 
 
 <div align="center">  
