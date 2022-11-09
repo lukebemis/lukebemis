@@ -3,13 +3,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=06ef35&background=FF000000&center=true&width=1000&lines=This+is+Lucas+Ritter's+GitHub;UX+Designer+by+UX+Unicornio;FrontEnd+Dev+by+Rocketseat;Design+and+Development)](https://git.io/typing-svg)
 
 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lukebemis&show_icons=true&count_private=true&hide_border=true&title_color=06ef35&&icon_color=06ef35&&text_color=06ef35&&bg_color=0d1117" alt="Lucas Ritter's GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukebemis&layout=compact&hide_border=true&title_color=06ef35&text_color=06ef35&bg_color=0d1117" />
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lukebemis&bg_color=c1116&color=06ef35&line=0a3d17&point=2ee708&area=true&hide_border=true)
- 
+
+
+![Metrics](https://metrics.lecoq.io/lukebemis?template=classic&base.community=0&base.repositories=0&base.metadata=0&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&leetcode=false&leetcode.user=lucasjritter%40gmail.com&leetcode.sections=solved&leetcode.limit.skills=5&leetcode.limit.recent=2&config.timezone=America%2FSao_Paulo&config.display=large)
+
+
+
+
+
+
 ### Main skills:
 ![Figma](https://img.shields.io/badge/Figma-c454ac?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-7ff9fe?style=for-the-badge&logo=react&logoColor=black)&nbsp;
@@ -33,7 +42,7 @@
 
 
 ### Bootcamps I Did
-![Rocketseat](https://img.shields.io/badge/Rocketseat-8356e5?style=for-the-badge)&nbsp;
+![Rocketseat](https://img.shields.io/badge/Rocketseat%20GoStack%20React%20Native-8356e5?style=for-the-badge)&nbsp;
 ![UX Unicórnio](https://img.shields.io/badge/UX%20Unicórnio-FF3366?style=for-the-badge)&nbsp;
 
 
